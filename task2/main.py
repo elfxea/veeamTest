@@ -2,6 +2,14 @@
 #
 # Usage: <path_to_script> --file <path_to_checksum_file> --dir <path_to_checking_directory>
 # To test this code using files from /test, use "<path_to_script> --file check.sum --dir test"
+#
+# E.g. console output:
+# test.txt OK
+# openssl-1.0.1a.tar.gz OK
+# openssl-1.0.1a.tar.gz FAIL
+# openssl-1.0.1a.zip NOT FOUND
+# photo.jpg OK
+# photo.jpg OK
 
 import argparse
 import hashlib
