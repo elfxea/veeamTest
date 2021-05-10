@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="D:\task1\"
+            destination_path="D:\test\new\"
+            file_name="config.xml"
+    />
+  <file
+            source_path="D:\task1\"
+            destination_path="D:\test\new\"
+            file_name="main.cpp"
+    />
+</config>
