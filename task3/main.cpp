@@ -5,6 +5,7 @@
 #include <filesystem>
 #include <cstdio>
 #include <sys/sysinfo.h>
+#include "testsys.h"
 
 /**
  * Test case #1, 'File system'.
