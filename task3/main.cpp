@@ -1,10 +1,3 @@
-#include <chrono>
-#include <string>
-#include <iostream>
-#include <fstream>
-#include <filesystem>
-#include <cstdio>
-#include <sys/sysinfo.h>
 #include "testsys.h"
 
 /**
